@@ -26,3 +26,7 @@
 **PrintArrayWords**  функция печати массива, используется для вывода данных. 
 
 > Общяя блок схема программы ArrayWords и отдельно представленные блок схемы функций Choice , PrintArrayWords добавлены отдельным файлом. 
+
+# <p  style="text-align: center;"> Скриншот работы программы ArrayWords </p>
+
+![image](https://user-images.githubusercontent.com/119072908/209695470-37eb9caa-3151-4e45-838d-13681cc0abd5.png)
